@@ -20,6 +20,7 @@ A clean, fast interface to anonymously browse Reddit media (images, videos, GIFs
 ---
 
 ## 📸 Screenshot
+![Screenshot](./assets/screenshot.png)
 
 
 
