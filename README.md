@@ -15,7 +15,7 @@ A clean, fast interface to anonymously browse Reddit media (images, videos, GIFs
 
 ## 🌐 Live Demo
 
-[View the live site →] https://scoller.callumgrooby.co.uk/
+View the live site → https://scoller.callumgrooby.co.uk/
 
 ---
 
